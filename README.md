@@ -1,0 +1,23 @@
+.github/workflows/ ci.yml
+# cyberdemo
+![Java CI](https://github.com/AlexisCastor9177/actions/workflows/ci.yml/badge.svg)
+> Un projet d'exemple Spring Boot avec tests unitaires, couverture de code avec JaCoCo et intégration 
+continue via GitHub Actions.
+---
+## Technologies utilisées
+- Java 21
+- Spring Boot
+- Maven
+- JUnit 5
+- JaCoCo
+- GitHub Actions
+---
+## Structure du projet
+cyber/
+├── src/
+│ ├── main/java/... # Code source de l'application
+│ └── test/java/... # Tests unitaires
+├── .github/workflows/ci.yml # Fichier d'intégration continue
+├── pom.xml # Configuration Maven
+└── README.md # Ce fichier
+---
