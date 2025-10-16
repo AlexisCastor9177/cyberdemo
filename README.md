@@ -1,6 +1,6 @@
 .github/workflows/ ci.yml
 # cyberdemo
-![Java CI](https://github.com/AlexisCastor9177/actions/workflows/ci.yml/badge.svg)
+![Java CI](https://github.com/AlexisCastor9177/cyberdemo/actions/workflows/ci.yml/badge.svg)
 > Un projet d'exemple Spring Boot avec tests unitaires, couverture de code avec JaCoCo et intégration 
 continue via GitHub Actions.
 ---
